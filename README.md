@@ -1,5 +1,15 @@
-## skill-allocator
+# skill-allocator
 Skill allocator for GC2:CS
+
+### Direct links
+
+[Direct link to SP table](skill_table.csv)  
+[Direct link to skill allocator notebook](Skill_allocator.nb?raw=true)  
+[Link to the Steam guide](http://steamcommunity.com/sharedfiles/filedetails/?id=486419356)
+
+### Credits
+
+Author: 12345ieee
 
 If this project helped you and you wish to help by contributing, please contact me, leaving a
 [new issue](https://github.com/gemforce-team/skill-allocator/issues/new) or opening a new pull request.
