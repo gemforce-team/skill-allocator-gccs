@@ -1,4 +1,4 @@
-# skill-allocator
+# skill-allocator-gccs
 Skill allocator for GC2:CS
 
 ### Direct links
